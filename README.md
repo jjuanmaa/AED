@@ -1,2 +1,6 @@
-# AED
-Repositorio personal para la entrega de trabajos prácticos de la materia Algoritmos Y Estructuras De Datos K1051
+# Algoritmos y Estructura de Datos
+### Repositorio personal para trabajos individuales
+* Curso: **K1051**
+* Nombre completo: **Gutiérrez Juan Martín**
+* Legajo: **208.752-2**
+* Año: **2023**
