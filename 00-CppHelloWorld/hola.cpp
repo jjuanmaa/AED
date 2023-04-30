@@ -1,6 +1,6 @@
 /*  hola.cpp
-    Hello, world!
-    Gutiérrez Juan Martín
+    Hello, World!
+    JMG
     20230429
 */
 
